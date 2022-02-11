@@ -41,6 +41,10 @@
     <td><a href='https://github.com/wantedPreOnboarding/19_02nd_slr_admin'>관리자 페이지 - 상품 등록</a></td>
     <td><a href='https://19thsiradminpage.netlify.app/'>프로젝트 링크</a></td>
   </tr>
-
+    <tr align="left">
+    <td>2주차</td>
+    <td><a href='https://github.com/wantedPreOnboarding/19_03rd_dashboard'>대시 보드</a></td>
+    <td><a href='https://dashboard19wanted.herokuapp.com/'>프로젝트 링크</a></td>
+  </tr>
 
 </table>
