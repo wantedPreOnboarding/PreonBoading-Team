@@ -61,6 +61,6 @@
     <tr align="left">
     <td>3주차</td>
     <td><a href='https://github.com/wantedPreOnboarding/19_06th_cola_dashboard'>물류 대시보드</a></td>
-    <td><a href='=https://dashboard-1919.netlify.app/'>프로젝트 링크</a></td>
+    <td><a href='https://dashboard-1919.netlify.app/'>프로젝트 링크</a></td>
   </tr>
 </table>
