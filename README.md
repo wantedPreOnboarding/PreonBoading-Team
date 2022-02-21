@@ -18,9 +18,28 @@
     <td><img src="https://avatars.githubusercontent.com/u/76679130?v=4" width="150px"/></td>
 
   </tr>
+</table>
 
+## 🌞프로젝트 과정 소개
+<table>
+
+  <tr align="left">
+    <td>Notion 협업문서</td>
+    <td><img width="auto" height="auto" alt="1" src="https://user-images.githubusercontent.com/76679130/154906477-109af950-4ae4-458a-9a02-5f9cbe74c0b2.png"></td>
+  </tr>
+  
+  <tr align="left">
+    <td>Gathertown 소통</td>
+    <td><img width="auto" height="auto" alt="1" src="gather.town"></td>
+  </tr>
+  
+  <tr align="left">
+    <td>Slack과 Github 연동</td>
+    <td><img width="auto" height="auto" alt="1" src="https://user-images.githubusercontent.com/76679130/154903300-0f1ac8da-0bad-4385-be9d-34c7c19bc9e0.png"></td>
+  </tr>
 
 </table>
+
 
 ## 💻 프로젝트 소개
 <table>
