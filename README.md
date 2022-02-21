@@ -30,7 +30,7 @@
   
   <tr align="left">
     <td>Gathertown 소통</td>
-    <td><img width="auto" height="auto" alt="1" src="gather.town"></td>
+    <td><img width="auto" height="auto" alt="1" src="https://user-images.githubusercontent.com/76679130/154970387-5ac499fc-a902-4b9a-8b25-867451bbcc0d.png"></td>
   </tr>
   
   <tr align="left">
