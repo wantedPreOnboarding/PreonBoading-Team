@@ -52,4 +52,15 @@
     <td><a href='https://github.com/wantedPreOnboarding/19_04th_messenger'>메신저</a></td>
     <td><a href='https://switchat.netlify.app/login'>프로젝트 링크</a></td>
   </tr>
+    </tr>
+    <tr align="left">
+    <td>3주차</td>
+    <td><a href='https://github.com/wantedPreOnboarding/19_05th_shop'>쇼핑몰샵</a></td>
+    <td><a href='='https://19-05th-shop.vercel.app/'>프로젝트 링크</a></td>
+  </tr>
+    <tr align="left">
+    <td>3주차</td>
+    <td><a href='https://github.com/wantedPreOnboarding/19_06th_cola_dashboard'>물류 대시보드</a></td>
+    <td><a href='=https://dashboard-1919.netlify.app/'>프로젝트 링크</a></td>
+  </tr>
 </table>
