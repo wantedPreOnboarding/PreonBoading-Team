@@ -73,7 +73,7 @@
   <tr align="left">
     <td>3주차</td>
     <td><a href='https://github.com/wantedPreOnboarding/19_05th_shop'>쇼핑몰샵</a></td>
-    <td><a href='='https://19-05th-shop.vercel.app/'>배포 링크</a></td>
+    <td><a href='https://19-05th-shop.vercel.app/'>배포 링크</a></td>
   </tr>
   <tr align="left">
     <td>3주차</td>
