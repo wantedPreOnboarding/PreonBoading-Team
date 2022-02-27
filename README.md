@@ -83,11 +83,11 @@
   <tr align="left">
     <td>4주차</td>
     <td><a href='https://github.com/wantedPreOnboarding/19_07th_flowers'>꽃 커머스 랜딩페이지</a></td>
-    <td><a href='https://dashboard-1919.netlify.app/'>프로젝트 링크</a></td>
+    <td><a href='https://gakukka.netlify.app/'>프로젝트 링크</a></td>
   </tr>
   <tr align="left">
     <td>4주차</td>
-    <td><a href='https://github.com/wantedPreOnboarding/19_06th_cola_dashboard'>파일쉐어</a></td>
-    <td><a href='https://github.com/wantedPreOnboarding/19_08th_fileshare'>프로젝트 링크</a></td>
+    <td><a href='https://github.com/wantedPreOnboarding/19_08th_fileshare'>파일쉐어</a></td>
+    <td><a href='https://shareyourfiles.netlify.app/'>프로젝트 링크</a></td>
   </tr>
 </table>
