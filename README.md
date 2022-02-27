@@ -55,31 +55,39 @@
     <td><a href='https://github.com/wantedPreOnboarding/19_01st_calculator'>환율 계산기</a></td>
     <td><a href='http://excalc.herokuapp.com/'>프로젝트 링크</a></td>
   </tr>
-    <tr align="left">
+  <tr align="left">
     <td>1주차</td>
     <td><a href='https://github.com/wantedPreOnboarding/19_02nd_slr_admin'>관리자 페이지 - 상품 등록</a></td>
     <td><a href='https://19thsiradminpage.netlify.app/'>프로젝트 링크</a></td>
   </tr>
-    <tr align="left">
+  <tr align="left">
     <td>2주차</td>
     <td><a href='https://github.com/wantedPreOnboarding/19_03rd_dashboard'>대시 보드</a></td>
     <td><a href='https://dashboard19wanted.herokuapp.com/'>프로젝트 링크</a></td>
   </tr>
-  </tr>
-    <tr align="left">
+  <tr align="left">
     <td>2주차</td>
     <td><a href='https://github.com/wantedPreOnboarding/19_04th_messenger'>메신저</a></td>
     <td><a href='https://switchat.netlify.app/login'>프로젝트 링크</a></td>
   </tr>
-    </tr>
-    <tr align="left">
+  <tr align="left">
     <td>3주차</td>
     <td><a href='https://github.com/wantedPreOnboarding/19_05th_shop'>쇼핑몰샵</a></td>
     <td><a href='='https://19-05th-shop.vercel.app/'>프로젝트 링크</a></td>
   </tr>
-    <tr align="left">
+  <tr align="left">
     <td>3주차</td>
     <td><a href='https://github.com/wantedPreOnboarding/19_06th_cola_dashboard'>물류 대시보드</a></td>
     <td><a href='https://dashboard-1919.netlify.app/'>프로젝트 링크</a></td>
+  </tr>
+  <tr align="left">
+    <td>4주차</td>
+    <td><a href='https://github.com/wantedPreOnboarding/19_07th_flowers'>꽃 커머스 랜딩페이지</a></td>
+    <td><a href='https://dashboard-1919.netlify.app/'>프로젝트 링크</a></td>
+  </tr>
+  <tr align="left">
+    <td>4주차</td>
+    <td><a href='https://github.com/wantedPreOnboarding/19_06th_cola_dashboard'>파일쉐어</a></td>
+    <td><a href='https://github.com/wantedPreOnboarding/19_08th_fileshare'>프로젝트 링크</a></td>
   </tr>
 </table>
