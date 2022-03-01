@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hello,%20We%20are%20looking%20for%20a%20job👋%&fontSize=50&animation=fadeIn&fontAlignY=36)
 
+## 원티드 X 위코드 X 임팩트캠퍼스 프리온보딩 코스 
+- 전공자, 주니어 경력자, 부트캠프등을 통해 일정 수준 기술역량을 갖춘 인재들의 graduate school
+- **5주간  48시간**의 제한 시간 동안 협업 하여 **8개**의 기업 과제를 수행 하는 개발자 기술 역량 향상 코스
+- 브랜치 관리 전략 : **gitFlow**
+- 협업툴 : **Notion, Gather**
 
 ## 👋🏻 팀원 소개
 <table>
