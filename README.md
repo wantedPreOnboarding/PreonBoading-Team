@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hello,%20We%20are%20want%20get%20a%20job👋%&fontSize=50&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hello,%20We%20are%20looking%20for%20a%20job👋%&fontSize=50&animation=fadeIn&fontAlignY=36)
 
 
 ## 👋🏻 팀원 소개
