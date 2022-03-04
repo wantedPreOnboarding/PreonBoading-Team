@@ -88,7 +88,7 @@
   <tr align="left">
     <td>4주차</td>
     <td><a href='https://github.com/wantedPreOnboarding/19_07th_flowers'>꽃 커머스 랜딩페이지</a></td>
-    <td><a href='https://gakukka.netlify.app/'>배포 링크</a></td>
+    <td><a href='https://shopflower.netlify.app'>배포 링크</a></td>
   </tr>
   <tr align="left">
     <td>4주차</td>
